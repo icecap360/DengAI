@@ -11,4 +11,4 @@ Final Position: 2149/9426 ≈ 22nd Percentile
 Technologies used: 
 * Tensorflow for building the Recurrent Neural Network and 1D-Convolutional Neural Network architectures
 * Tensorboard for model metric visualization and hyper parameter tuning
-* R (for preprocessing)
+* R and Pandas (for preprocessing)
