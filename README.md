@@ -6,6 +6,8 @@ Contest link: https://www.drivendata.org/competitions/44/dengai-predicting-disea
 
 Final Position: 2149/9426 ≈ 22nd Percentile
 
+![alt text](https://github.com/icecap360/DengAI/blob/master/Result.png?raw=true)
+
 Technologies used: 
 * Tensorflow for building the Recurrent Neural Network and 1D-Convolutional Neural Network architectures
 * Tensorboard for model metric visualization and hyper parameter tuning
